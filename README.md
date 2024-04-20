@@ -1,6 +1,6 @@
 # Group Snoop
 
-[![GitHub](https://img.shields.io/github/license/supercoolspy/groupsnoop)](https://github.com/supercoolspy/groupsnoop/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/supercoolspy/groupsnoop)](https://github.com/supercoolspy/groupsnoop/blob/master/LICENSE)
 
 Group snoop allows you to record data points on roblox groups to track changes. 
 

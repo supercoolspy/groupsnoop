@@ -2,6 +2,9 @@
   "name": "groupsnoop",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "build": "bun build --compile --minify --sourcemap index.ts --outfile groupsnoop"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },

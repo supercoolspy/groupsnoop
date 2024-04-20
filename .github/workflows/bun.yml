@@ -16,3 +16,5 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: groupsnoop
+permissions:
+  contents: write
